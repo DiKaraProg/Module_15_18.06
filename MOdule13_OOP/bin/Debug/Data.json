@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "123",
+    "LastName": "123",
+    "FatherName": "123",
+    "PhoneNumber": "123",
+    "Passport": "123",
+    "Email": "123",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 1071.0,
+        "TypeAccount": 1,
+        "AccountId": 1
+      },
+      {
+        "$type": "MOdule13_OOP.DemandAccount, Library_Module_13_OOP",
+        "typeAccount": 0,
+        "Sum": 1246.0,
+        "TypeAccount": 0,
+        "AccountId": 2
+      },
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 1123.0,
+        "TypeAccount": 1,
+        "AccountId": 3
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FirstName": "123",
+    "LastName": "123",
+    "FatherName": "123",
+    "PhoneNumber": "123123",
+    "Passport": "123123",
+    "Email": "213",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 175.0,
+        "TypeAccount": 1,
+        "AccountId": 1
+      },
+      {
+        "$type": "MOdule13_OOP.DemandAccount, Library_Module_13_OOP",
+        "typeAccount": 0,
+        "Sum": 123.0,
+        "TypeAccount": 0,
+        "AccountId": 2
+      },
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 123.0,
+        "TypeAccount": 1,
+        "AccountId": 3
+      }
+    ]
+  }
+]
